@@ -18,7 +18,10 @@
   border-radius: inherit;
 }
 
-.no-touchevents .card:hover .inner {
+:global(.no-touchevents) a.link:hover {
+  opacity: 1;
+}
+:global(.no-touchevents) a.link:hover .inner {
   opacity: 0.1;
 }
 
