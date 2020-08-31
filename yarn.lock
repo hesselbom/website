@@ -1839,6 +1839,11 @@ browserify-zlib@^0.2.0:
   dependencies:
     pako "~1.0.5"
 
+browsernizr@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/browsernizr/-/browsernizr-2.3.0.tgz#6341c1680e58595826637a8562caa8f7762e7bde"
+  integrity sha512-utOesjRFwaQ+UmfQyYQ9Iw3dQnltLil2w+PBxCjMMbIIx43ZwXQXal1CzXrlehzzWox7jz9DFnFKUHBLbXCAEQ==
+
 browserslist@^4.0.0, browserslist@^4.12.0, browserslist@^4.6.4, browserslist@^4.8.5:
   version "4.14.0"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.14.0.tgz#2908951abfe4ec98737b72f34c3bcedc8d43b000"

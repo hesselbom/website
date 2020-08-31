@@ -18,7 +18,7 @@
   border-radius: inherit;
 }
 
-.card:hover .inner {
+.no-touchevents .card:hover .inner {
   opacity: 0.1;
 }
 

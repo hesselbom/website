@@ -20,7 +20,7 @@ h1 {
 }
 
 #app {
-  padding: 4rem 0;
+  padding: 4rem;
 }
 
 a {
@@ -30,6 +30,6 @@ a {
   transition: opacity .2s ease;
 }
 
-a:hover {
+.no-touchevents a:hover {
   opacity: 0.5;
 }

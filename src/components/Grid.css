@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
   grid-gap: 4rem;
-  max-width: 80rem;
+  max-width: 72rem;
   margin: 0 auto;
-  padding: 0 4rem;
 }

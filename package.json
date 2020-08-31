@@ -8,6 +8,7 @@
     "build": "preact build --no-sw"
   },
   "dependencies": {
+    "browsernizr": "^2.3.0",
     "preact": "10.4.8",
     "preact-cli": "3.0.1",
     "preact-render-to-string": "5.1.10",
