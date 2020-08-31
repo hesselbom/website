@@ -1,6 +1,9 @@
+if (typeof document !== 'undefined') {
+  require('browsernizr/test/touchevents')
+  require('browsernizr')
+}
+
 import './index.css'
-import 'browsernizr/test/touchevents'
-import 'browsernizr'
 import Router from 'preact-router'
 import Home from './routes/Home'
 import Privacy from './routes/Privacy'
