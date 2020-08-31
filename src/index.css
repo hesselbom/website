@@ -15,15 +15,21 @@ h1, h2 {
   font-weight: normal;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 #app {
   padding: 4rem 0;
 }
-#app > h1 {
-  font-size: 2rem;
-  margin-bottom: 0rem;
+
+a {
+  color: inherit;
+  text-decoration-color: #eb6565;
+  text-decoration-thickness: 0.2rem;
+  transition: opacity .2s ease;
 }
-#app > h2 {
-  font-size: 1.6rem;
-  margin-bottom: 4rem;
+
+a:hover {
   opacity: 0.5;
 }

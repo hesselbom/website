@@ -1,0 +1,32 @@
+.view h1 {
+  margin-bottom: 4rem;
+}
+
+.view > ul {
+  list-style: none;
+  font-size: 1.6rem;
+}
+
+.view > ul > li {
+  margin-bottom: 1rem;
+}
+
+.view > p, .view > h2 {
+  text-align: left;
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.view > p {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+
+.view > h2 {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}

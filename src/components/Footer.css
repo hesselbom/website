@@ -1,0 +1,11 @@
+.footer {
+  margin-top: 4rem;
+  font-size: 1.6rem;
+  color: black;
+}
+
+.policies {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  opacity: 0.5;
+}

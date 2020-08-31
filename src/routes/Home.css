@@ -1,0 +1,10 @@
+.view > h1 {
+  font-size: 2rem;
+  margin-bottom: 0rem;
+}
+
+.view > h2 {
+  font-size: 1.6rem;
+  margin-bottom: 4rem;
+  opacity: 0.5;
+}
