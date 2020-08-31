@@ -1,0 +1,27 @@
+.avatar {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1rem;
+  position: relative;
+  box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 0.1);
+}
+
+.avatar:before {
+  content: '';
+  border: 0.4rem solid rgba(0, 0, 0, 0.1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: inherit;
+}
+
+.avatar img {
+  width: 10rem;
+  height: 10rem;
+  display: block;
+  border-radius: 50%;
+}
