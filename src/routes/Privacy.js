@@ -1,4 +1,5 @@
 import s from './Privacy.css'
+import BackFooter from '../components/BackFooter'
 
 export default ({ app }) => (
   <div class={s.view}>
@@ -14,5 +15,7 @@ export default ({ app }) => (
 
     <h2>Contact Us</h2>
     <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.</p>
+
+    <BackFooter />
   </div>
 )

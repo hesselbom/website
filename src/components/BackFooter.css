@@ -1,0 +1,9 @@
+.footer {
+  margin-top: 4rem;
+  font-size: 1.2rem;
+  color: black;
+}
+
+.footer p {
+  opacity: 0.5;
+}

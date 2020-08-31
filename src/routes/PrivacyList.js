@@ -1,4 +1,5 @@
 import s from './Privacy.css'
+import BackFooter from '../components/BackFooter'
 
 export default () => (
   <div class={s.view}>
@@ -8,5 +9,6 @@ export default () => (
       <li><a href='/privacy-policy/tubesnake'>Tubesnake</a></li>
       <li><a href='/privacy-policy/fish-in-a-watch'>Fish in a Watch</a></li>
     </ul>
+    <BackFooter />
   </div>
 )

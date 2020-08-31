@@ -1,13 +1,13 @@
-if (typeof document !== 'undefined') {
-  require('browsernizr/test/touchevents')
-  require('browsernizr')
-}
-
 import './index.css'
 import Router from 'preact-router'
 import Home from './routes/Home'
 import Privacy from './routes/Privacy'
 import PrivacyList from './routes/PrivacyList'
+
+if (typeof document !== 'undefined') {
+  require('browsernizr/test/touchevents')
+  require('browsernizr')
+}
 
 export default () => (
   <div id='app'>
