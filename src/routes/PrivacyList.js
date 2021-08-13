@@ -9,6 +9,7 @@ export default () => (
       <li><a href='/privacy-policy/podger'>Podger</a></li>
       <li><a href='/privacy-policy/shufflepong'>Shufflepong</a></li>
       <li><a href='/privacy-policy/tubesnake'>Tubesnake</a></li>
+      <li><a href='/privacy-policy/shaky-shapes'>Shaky Shapes</a></li>
     </ul>
     <BackFooter />
   </div>
