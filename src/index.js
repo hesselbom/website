@@ -17,6 +17,7 @@ export default () => (
       <Privacy path='/privacy-policy/fish-in-a-watch' app='Fish in a Watch' />
       <Privacy path='/privacy-policy/shaky-shapes' app='Shaky Shapes' />
       <Privacy path='/privacy-policy/podger' app='Podger' />
+      <Privacy path='/privacy-policy/agrazing-maze' app='Agrazing Maze' />
       <PrivacyList path='/privacy-policy' />
       <Home default />
     </Router>
