@@ -11,6 +11,13 @@ export default () => (
     <h2>Web, iOS, Android, Apple Watch Developer</h2>
     <Grid>
       <Card
+        title='Puzzle PDF'
+        img={require('../images/puzzlepdf.png').default}
+        href='https://www.puzzlepdf.com/'
+        year='2022'
+        platform='PDF, Website'
+      />
+      <Card
         title='Shaky Shapes'
         img={require('../images/shakyshapes.png').default}
         href='https://apps.apple.com/us/app/shaky-shapes/id1528137086'
