@@ -11,9 +11,9 @@ export default () => (
     <h2>Web, iOS, Android, Apple Watch Developer</h2>
     <Grid>
       <Card
-        title='Lubba'
+        title='Watchletic'
         img={require('../images/lubba.png').default}
-        href='https://lubba.app/'
+        href='https://www.watchletic.com/'
         year='2022'
         platform='Apple Watch'
       />
