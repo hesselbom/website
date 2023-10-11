@@ -17,6 +17,7 @@ export default () => {
       <p><a rel='nofollow' href='https://twitter.com/mrhesselbom'>Twitter</a></p>
       <p><a rel='nofollow' href='https://www.linkedin.com/in/hesselbom/'>LinkedIn</a></p>
       <p class={s.policies}><a href='/privacy-policy'>App Privacy Policies</a></p>
+      <p class={s.policies}>Hesselbom Tech AB</p>
     </footer>
   )
 }
