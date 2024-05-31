@@ -11,8 +11,9 @@
   "dependencies": {
     "browsernizr": "^2.3.0",
     "copy-webpack-plugin": "6.1.0",
+    "postcss": "^8.4.38",
     "preact": "10.4.8",
-    "preact-cli": "3.0.1",
+    "preact-cli": "^3.5.1",
     "preact-render-to-string": "5.1.10",
     "preact-router": "3.2.1",
     "standard": "16.0.4"
