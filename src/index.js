@@ -20,6 +20,7 @@ export default () => (
       <Privacy path='/privacy-policy/podger' app='Podger' />
       <Privacy path='/privacy-policy/agrazing-maze' app='Agrazing Maze' />
       <Privacy path='/privacy-policy/watchletic' app='Watchletic' />
+      <Privacy path='/privacy-policy/offline-password-generator' app='Offline Password Generator' />
       <PrivacyList path='/privacy-policy' />
       <Home default />
     </Router>
