@@ -11,6 +11,13 @@ export default () => (
     <h2>Web, iOS, Android, Apple Watch Developer</h2>
     <Grid>
       <Card
+        title='rhinoleaf'
+        img={require('../images/rhinoleaf.png').default}
+        href='https://www.rhinoleaf.app/'
+        year='2025'
+        platform='Website'
+      />
+      <Card
         title='ASO Suite'
         img={require('../images/asosuite.png').default}
         href='https://www.asosuite.com/'
