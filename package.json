@@ -4,7 +4,7 @@
   "author": "Viktor Hesselbom <viktor@hesselbom.net>",
   "license": "MIT",
   "scripts": {
-    "start": "preact watch",
+    "start": "preact watch --port 8081",
     "build": "preact build --no-sw",
     "lint": "standard"
   },
