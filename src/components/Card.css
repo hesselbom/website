@@ -7,6 +7,12 @@
   border-radius: 2rem;
 }
 
+.card.inset {
+  background-color: #0e1744;
+  background-position: center;
+  background-size: 66%;
+}
+
 .card:before {
   content: '';
   border: 0.4rem solid rgba(0, 0, 0, 0.1);

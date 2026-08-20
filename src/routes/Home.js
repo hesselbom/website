@@ -16,6 +16,7 @@ export default () => (
         href='https://www.asoskill.com/'
         year='2026'
         platform='Developer API'
+        inset
       />
       <Card
         title='rhinoleaf'
