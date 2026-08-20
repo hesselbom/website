@@ -8,8 +8,15 @@ export default () => (
   <div class={s.view}>
     <Avatar />
     <h1>Viktor Hesselbom</h1>
-    <h2>Web, iOS, Android, Apple Watch Developer</h2>
+    <h2>Hesselbom Tech AB · Web, iOS, Android, Apple Watch</h2>
     <Grid>
+      <Card
+        title='ASO Skill'
+        img='https://www.asoskill.com/aso-skill-mark-1024.png'
+        href='https://www.asoskill.com/'
+        year='2026'
+        platform='Developer API'
+      />
       <Card
         title='rhinoleaf'
         img={require('../images/rhinoleaf.png').default}
